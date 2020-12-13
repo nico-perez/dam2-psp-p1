@@ -1,10 +1,6 @@
-package dev.el_nico.dam2_psp_p1;
+package dev.el_nico.dam2_psp_p1.tarea1;
 
-/**
- * Hello world!
- *
- */
-public class App 
+public class Main 
 {
     public static void main(String[] args)
     {

@@ -1,9 +1,9 @@
-package dev.el_nico.dam2_psp_p1;
+package dev.el_nico.dam2_psp_p1.tarea1;
 
 public class Hilo extends Thread {
 
-    private static int _idc = 0;
-    private int id = ++_idc;
+    private static int _ids = 0;
+    private int id = ++_ids;
 
     @Override
     public void run() {
